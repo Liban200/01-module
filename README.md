@@ -156,3 +156,5 @@ You are required to submit the following for review:
 
 ---
 © 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+
+I would like to acknowledge and thank Charlie Puente from the tutoring team and https://www.w3schools.com/html/html5_semantic_elements.asp
