@@ -7,7 +7,6 @@ There are two types of Challenges in this course. Each one is designed to prepar
 ### Challenge Types 
 
 The two types of Challenges are the following:
-
 * **On-the-job ticket** or **feature request Challenges** give you starter code in a folder called `Develop`, which you'll modify to complete the Challenge. Odd-numbered modules follow this format.
 
 * **Job-seeking coding assessments** or **take-home assignments** don't provide starter code. You'll build these from scratch. Even-numbered modules follow this format.
@@ -156,3 +155,5 @@ You are required to submit the following for review:
 
 ---
 © 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+
+I would like to acknowledge and thank Charlie Puente from the tutoring team and https://www.w3schools.com/html/html5_semantic_elements.asp
